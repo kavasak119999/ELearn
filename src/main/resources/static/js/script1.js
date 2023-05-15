@@ -1,5 +1,5 @@
 // // Скрипт для поиска слов в словаре
-const subscriptionKey = '2c3536a47f4644c6a78006a574790026';
+const subscriptionKey = '';
 const region = 'westeurope';
 const endpoint = 'https://api.cognitive.microsofttranslator.com/translate?api-version=3.0&to=uk';
 
